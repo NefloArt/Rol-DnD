@@ -1,0 +1,6 @@
+Fuerza: 10 (+0)
+Destreza: 16 (+3)
+Constitucion: 17 (+3)
+Inteligencia: 16 (+3)
+Sabiduria: 18 (+4)
+Carisma: 11 (+0)
